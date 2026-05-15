@@ -39,8 +39,10 @@
 
 - Creamos un nuevo proyecto en **default** → opción **_sch** para el esquemático.  
 - El archivo **_pcb** muestra cómo se vería la placa.  
-- Hicimos el esquemático del **Atari Punk**, ya conocido por el protoboard.  
-
+- Hicimos el esquemático del **Atari Punk**, ya conocido por el protoboard.
+  
+  Aquí una foto de mi primer esquematico!!
+  ![esquematico](./imagenes/esquematico.png).
 
 ---
 

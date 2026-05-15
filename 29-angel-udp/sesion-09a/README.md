@@ -51,5 +51,5 @@ Por último sé que en F.Silkscreen y B.Silkscreen puedo agregar un dibujo o tex
 ![imagen 3](./imagenes/imagen3.png)
 ![imagen 4](./imagenes/imagen4.png)
 ![imagen 5](./imagenes/imagen5.png)
-![imagen 6](./imagenes/imagen6.png
+![imagen 6](./imagenes/imagen6.png)
 

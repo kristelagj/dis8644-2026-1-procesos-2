@@ -44,8 +44,6 @@ KiCad trabaja con distintos archivos conectados entre sí mediante un archivo pr
 
 ### Paso 1 — Esquemático
 
-FOTOOOO
-
 Dentro del  `.kicad_sch` se colocan componentes y se conectan usando cables.
 
 A cada componente se le puede asignar:
@@ -154,7 +152,9 @@ Hice los ejercicios de la clase junto a Benjamín, ya que no quedaban más compu
 
 Al comienzo fue un poco confuso porque teníamos algunos errores en la configuración, por lo que no podíamos avanzar correctamente. Después, con ayuda, logramos corregirlos y continuar trabajando ദ്ദി( • ᴗ < )
 
-#### Proceso realizado en clases
+#### Registros
 
- FOTOOOOOOOOOO
-
+![foto](./imagenes/esquematico.png)
+![foto](./imagenes/foto1.png)
+![foto](./imagenes/foto2.png)
+![foto](./imagenes/foto3.png)

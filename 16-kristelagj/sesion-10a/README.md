@@ -100,3 +100,7 @@ Vilém Flusser fue un escritor, filósofo, pensador y periodista checo-brasileñ
 
 ¨Hacia una filosofía de la fotografía” es una de sus grandes y reconocidas obras según los lectores que habla sobre la exploración innovadora de la intrincada relación entre imágenes, tecnología y existencia humana.
 
+¿El ser humano es capaz de entender y apreciar el poder de imaginación que tiene? ¿La sociedad de hoy en día tiene más capacidad de generar imágenes, textos o ninguno?
+
+La imagen inmortaliza lo que tenemos a nuestro alrededor, dejándolo a nuestra disposición cuando nosotros lo necesitemos sin tener que volver a ese lugar y así poder traer esa imaginación a otro espacio, compartirlo y comentarlo pero la comunicación de la imagen este se ve atropellada con el sentimiento e interpretación del que genera imágenes, osea teniendo así un lenguaje connotativo. 
+

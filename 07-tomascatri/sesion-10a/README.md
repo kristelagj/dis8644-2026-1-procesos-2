@@ -12,7 +12,7 @@ Indagaron en los capitulos del libro y reflexionaron sobre esto, como aun no me 
 * Hace 300 años se intentó calcular el peso del mundo. Para ello, un equipo escaló una montaña en Escocia equipados con péndulos y telescopios. Lograron un 80% de precisión en su estimación.
 * Interés en los sistemas que parecen estables y exactos (como los de medición), pero que al mirarse de cerca revelan su inestabilidad. Se cuestiona el aceptar estos sistemas de forma automática sin pensar en lo que realmente significan o qué pasa si no los usamos.
 * La grilla se transformó en un elemento simbólico. Aunque es cuadrada y geométrica, representa algo inestable que, aun así, permite posicionar cosas.
-* El padre de uno de los integrantes trabajaba en General Electric
+* El padre de uno de los integrantes trabajaba en General Electric.
 
 ### Exposiciones
 * Tras recibir una invitación para presentarse en una galería de Londres, la obra ha pasado por diferentes exposiciones. Uno de los integrantes (Patrick) gestiona una galería en Inglaterra llamada *project78gallery*.
@@ -25,7 +25,7 @@ Indagaron en los capitulos del libro y reflexionaron sobre esto, como aun no me 
 
 ---
 
-### Simons y firt?
+### ¿Simons y Firt?
 
 * **Funcionamiento** = Simon utiliza un escáner que cuenta con un espejo interno que se mueve tanto en horizontal como en vertical. El aparato emite un láser que choca con el entorno físico para registrar el espacio y crear modelos digitales.
 * El dispositivo es capaz de disparar **8 billones de puntos**, cada uno de ellos representa un impacto del láser contra el mundo real.
@@ -36,11 +36,11 @@ Indagaron en los capitulos del libro y reflexionaron sobre esto, como aun no me 
 * Se enfocan en el sistema de ramificación de los árboles, las cuales sus formas se asemejan a relámpagos, frecuencias y ondas.
 * Para el árbol, los humanos nos movemos muy rápido; pero para una montaña, el árbol es el que se mueve a gran velocidad.
 
-### Como se hacen
-* **Subversión del uso:** Estas herramientas suelen usarse para tareas técnicas y aburridas, como medir edificios o registrar cortes arquitectónicos (donde las líneas del software muestran el recorrido que hizo el operador). Sin embargo, el proyecto propone usar la tecnología para **divertirse y jugar** con el modelo armado, en lugar de solo medir.
-* El uso de estos aparatos tecnológicos llega a un punto en que no se distingue de la magia. su belleza radica en que muchas veces el sistema no funciona como debería, abriendo espacio al error artístico y formas enriquecidas debido a esto.
+### Cómo se hacen
+* **Uso diferente:** Estas herramientas suelen usarse para tareas técnicas y aburridas, como medir edificios o registrar cortes arquitectónicos (donde las líneas del software muestran el recorrido que hizo el operador). Sin embargo, el proyecto propone usar la tecnología para **divertirse y jugar** con el modelo armado, en lugar de solo medir.
+* El uso de estos aparatos tecnológicos llega a un punto en que no se distingue de la magia. Su belleza radica en que muchas veces el sistema no funciona como debería, abriendo espacio al error artístico y formas enriquecidas debido a esto.
 
-* Existe una página web que recopila diferentes escaneos de este tipo se llama *Ceina 2026*.
+* Existe una página web que recopila diferentes escaneos de este tipo, se llama *Ceina 2026*.
 
 ## Apps para replicar
 * No se necesita equipo industrial; hoy en día cualquier persona puede experimentar con esto desde su teléfono móvil.
@@ -48,12 +48,12 @@ Indagaron en los capitulos del libro y reflexionaron sobre esto, como aun no me 
 
 ---
 
-## apuntes 2.0 despues de charla
+## Apuntes 2.0 después de charla
 
 Misa nos dio un repaso de los chips usados y también explicó chips nuevos que podríamos aplicar para nuestros proyectos, así como precisiones de conceptos.
 
 * Noción de control de voltaje: mientras más arriba la copa de agua, más presión.
-* 9V lienzo espacio entre 0V y 9V, o sea, ground y VCC.
+* 9V lienzo = espacio entre 0V y 9V, o sea, ground y VCC.
 * 4046 = Con un gesto convierte la frecuencia. Uno puede cambiar la frecuencia según el voltaje que se le dé.
 *El 4093 convierte la resistencia en frecuencia. 
 * VCO = oscilador controlado por voltaje, si se cambia el voltaje de entrada, se apura o ralentiza la oscilación. 9 V chilla más agudo; mientras más baja, más grave.
@@ -62,6 +62,6 @@ Misa nos dio un repaso de los chips usados y también explicó chips nuevos que 
 * Multiplexor = Cada información es un voltaje y una es la que decide cuál es la salida.
 * Relé = Si le llega electricidad, se prende, si no le llega, apaga.
 **LM que podrían servir:**
-* Lm741
-* lm358
-* lm 324
+* LM741.
+* LM358.
+* LM324.

@@ -28,7 +28,7 @@ los diferente chip propuestos fueron según las ondas y cuales queremos mostrar 
 
 **Propuesta:**
 ![propuesta1](https://github.com/paulafuentesm/dis8644-2026-1-procesos-2/blob/4b49c14bbd712d31ecc08fb2771eed5fa1af774c/12-paulafuentesm/sesion-10b/imagenes/propuesta1.jpg)
-imagen: Abajo del circuto, se ve como se veria el cambio de las ondas de cuadrado a lo que queremos hacer ( modificarla para que parescan ondas de sierra)
+imagen: Abajo del circuito, se ve cómo se vería el cambio de las ondas de cuadrado a lo que queremos hacer ( modificarla para que parezcan ondas de sierra)
 
 ### **Propuesta 2**
 + Posiblemente chip 4011 (aun no confirmado)

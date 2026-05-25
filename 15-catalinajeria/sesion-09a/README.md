@@ -14,13 +14,12 @@ Seguimos trabajando con KiCad, ahora estaremos viendo como pasar del esquematico
 
 °Ruteo de pistas y verificación de reglas de diseño.
 
+RECORDAR QUE➡️ Se debe tener en cada componente las huellas listas en el esquematico para que se vean los componentes en la placa. Luego iremos al editor de placa.
+![Clase online](./imagenes/clase09a_imagen02.jpeg)
 
+Hasta aqui llegue porque me mareo de tanta info🩹
 
-
-
-
-
-
+Pero si deo el resumen del texto!⚖️
 
 
 ![Libro](./imagenes/clase09a_imagen01.png)

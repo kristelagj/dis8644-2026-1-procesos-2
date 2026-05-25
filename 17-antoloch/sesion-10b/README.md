@@ -34,7 +34,8 @@ En esta clase vimos diferentes dudas, entre todos nos ayudamos y se resulvieron 
 - **Temporales**: pulsadores, timbres, pushbuttons.  
 - **Tipos**:  
   - NO (Normally Open / Abierto).  
-  - NC (Normally Closed / Conectado).  
+  - NC (Normally Closed / Conectado).
+   ![nonc](./imagenes/nonc.png).
 - **Interruptores**:  
   - SPST → 2 patitas  
   - SPDT → 3 patitas  

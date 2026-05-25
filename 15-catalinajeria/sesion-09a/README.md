@@ -2,6 +2,17 @@
 
 (Clases online)
 
+🗂️Resumen del contenido:
+
+Seguimos trabajando con KiCad, ahora estaremos viendo como pasar del esquematico al editor de placa.
+
+°Definir la lista de materiales (BOM).
+
+°Asignar huellas a los componentes.
+
+°Organizar el diseño físico de la placa.
+
+°Ruteo de pistas y verificación de reglas de diseño.
 
 
 
@@ -12,8 +23,7 @@
 
 
 
-
-![Huella 2](./imagenes/clase09a_imagen01.png)
+![Libro](./imagenes/clase09a_imagen01.png)
 
 ## Hacia una filosofía de la fotografía
 ### Capítulo 1: La imagen

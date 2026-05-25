@@ -159,3 +159,38 @@ Después de eso, KiCad muestra una lista con los posibles errores encontrados.
 esquemáticos y PCB en KiCad
 
 cada estudiante debe tomar 2 de las 4 secciones distintas del sintetizador realizado en el proyecto 1, y crear un proyecto en KiCad por cada una, que contenga tanto el esquemático y la PCB de cada sección.
+
+꩜ No tomé capturas de todos los procesos porque se me olvidó, ya que estaba concentrada entre hacer la placa y volver a ver la clase de KiCad ꩜
+
+1.  Crear esquemático (555)
+
+![foto](./imagenes/uno.png)
+
+2. Asociar huellas
+
+![foto](./imagenes/dos.png)
+
+3. Abrir PCB Editor 
+
+4. Definir pistas
+
+5. Distribuir componentes
+
+6. Rutear conexiones
+
+ ![foto](./imagenes/tres.png) 
+ 
+7. Preparar fabricación
+
+![foto](./imagenes/cuatro.png)  
+
+Stay coo /inserte ruido de paloma
+
+![foto](./imagenes/cinco.png)  
+![foto](./imagenes/seis.png)
+
+Aquí revisé la parte de DRC y me aparecieron esos avisos. Por lo que entendí, el texto y los dibujos están tapando algunas partes de la placa, pero no sé si eso realmente afecta su funcionamiento.
+
+![foto](./imagenes/siete.png)  
+
+También me pasó que no había dejado espacio para los agujeros, así que tuve que mover un poco los componentes. No estoy segura de si todo está bien colocado y aún me falta aprender más cómo ubicar los componentes de manera estratégica.

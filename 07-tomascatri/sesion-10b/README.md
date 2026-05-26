@@ -2,7 +2,7 @@
 
 Ya que falte ese día, me pondré al día con los apuntes de mi grupo.
 
-Martes 26 de mayo
+Vierres 22 de mayo
 ## Apuntes
 
 ## Encargo

@@ -14,4 +14,4 @@
 - Choker se basa en avanzar un step al recibir estimulos en el piezo mediante la vibracion de la voz
   
 ## Pruebas
-. el 250526 nos reunimos  a hacer las primeras pruebas de ambos circuitos, logramos hacer que taiko funcione al dar pulsaciones con un ritmo 
+- el 250526 nos reunimos  a hacer las primeras pruebas de ambos circuitos, logramos hacer que taiko funcione al dar pulsaciones con un ritmo, realizamos registro 

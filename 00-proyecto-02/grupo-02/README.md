@@ -20,9 +20,10 @@ Integrantes:
 
 ¿Qué hace el circuito? Intentar explicarlo para gente que no sabe electrónica. Ejemplo: escucha los impactos sobre sí mismo y lo convierte en señales de aviso para otras cosas
 
-Este circuito se categoriza como un secuenciador, es decir que genera un patrón repetitivo y ordenado. Un ejemplo de esto es un semáforo, ya que se va a prender siempre en el mismo orden
+Este circuito se categoriza como un secuenciador, es decir que genera un patrón repetitivo y ordenado. Un ejemplo de esto es un semáforo, ya que se va a prender siempre en el mismo orden: _VERDE > AMARILLO > ROJO > VERDE > AMARILLO > ROJO > ..._
 
 ![Semáforo](./imagenes/semaforo.gif)
+
 
 El comoo se visualiza este patrón es lo llamativo, ya que consta de diferentes _puntos_ que se _acitvan_, donde algunos se _activan_ más rápido que otros pero siempre con un orden establecido. A continuación se describen 2 ejemplos para entender de mejor manera
 

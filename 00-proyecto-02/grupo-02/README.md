@@ -38,6 +38,10 @@ Ya definimos que este sistema es un secuenciador, pero algo importante es como e
 
 ![Secuencia](./imagenes/11.png)
 
+> De izquierda a derecha: Avance del tiempo
+>
+> De arriba a abajo: Q1, Q2, Q3, Q4 y Q5 = Canales
+
 <br>
 
 Esta es una secuencia binaria y de las cosas más notorias es que cada _canal_ tiene la misma duración prendido y apagado, es decir, el Q3 funciona con 4 _señales apagadas_ y 4 _señales prendidas_. Otro punto interesante es como esta duración tambien sigue un patrón
@@ -56,6 +60,7 @@ Ahora que entendemos como funciona su secuencia, vamos a profundizar más en com
 
 Para una mayor compresión se utilizará la siguiente analogía: Tenemos una especie de corazón (Reloj) que cada vez que late (emitir un pulso eléctrico) un semáforo prende sus luces (se activan las salidas del secuenciador)
 
+[![Ejemplo circuito 4040](./imagenes/sc41.png)](https://youtube.com/shorts/x3a4tAwtNEM?feature=share)
 
 
 ### Esquemático 

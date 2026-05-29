@@ -60,28 +60,38 @@ Ahora que entendemos como funciona su secuencia, vamos a profundizar más en com
 
 Para una mayor compresión se utilizará la siguiente analogía: Tenemos una especie de corazón (Reloj) que cada vez que late (emitir un pulso eléctrico) un semáforo prende sus luces (se activan las salidas del secuenciador)
 
+>Clickear imagen para reproducir video
+
 [![Ejemplo circuito 4040](./imagenes/sc41.png)](https://youtube.com/shorts/x3a4tAwtNEM?feature=share)
 
 
 ### Esquemático 
 
-```markdown
+
 ![esquemático circuito](./imagenes/esquematico-1.png)
-```
+
 
 ### PCB 1
 
-```markdown
-![pcb front](./imagenes/pcb-front-1.png)
-```
 
-```markdown
+![pcb front](./imagenes/pcb-front-1.png)
+
+
+
 ![pcb back](./imagenes/pcb-back-1.png)
-```
+
 
 ### Documentación audiovisual funcionamiento protoboard 1
 
-Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcionando
+Clickear imagenes para reproducir video
+
+[![Ejemplo circuito 4040](./imagenes/sc42.png)](https://youtu.be/7QSAAqquWV8)
+
+[![Ejemplo circuito 4040](./imagenes/sc43.png)](https://youtu.be/X4rYO5dJ6EY)
+
+[![Ejemplo circuito 4040](./imagenes/sc44.png)](https://youtu.be/25J13NA67AE)
+
+<br>
 
 ## Circuito 2
 

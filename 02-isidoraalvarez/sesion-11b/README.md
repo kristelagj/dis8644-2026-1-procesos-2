@@ -29,5 +29,18 @@ estandar: imputs/outputs-audiojack2_switcht
 
 Fuentes: barrel_jack_switch
 
+## **Modificacion/correcion:**
 
+unificar ondas 
+estamos viendo la opcion de reduciorlo de 8 pasos a 4 pasos
 
+## **Organizacion grupal**
+
+Por hacer:
+
+- subir secuenciador 01 v2 (4040)/ tomas
+- subir secuenciador 02- v02 (version missa) (falta hacer pcb)/ listo
+- esquematico con transistores para ambos circuitos / Cami 
+- 4093 armado / daya
+- 386 armado / Isi
+- actualizar documentacion / Angel
